@@ -1,0 +1,23 @@
+﻿Kursevi IPI
+
+Popis kurseva
+
+Kursevi o osnovama upotrebe računara i Interneta
+
+Osnove računara (Windows)
+Osnove komunikacija (Internet Explorer, Microsoft Outlook) 
+Obrada teksta (Word) 
+Proračunske tablice (Excel) 
+Upotreba baza podataka (Access)
+Prezentacije (PowerPoint)
+IT sigurnost
+Online saradnja
+
+Kursevi o web-tehnologijama, izradi web-stranica
+
+Uvod u HTML
+Uvod u CSS
+Osnove JavaScripta
+Uvod u XML
+			
+Internacionalna poslovno-informaciona akademija Tuzla (IPI)
