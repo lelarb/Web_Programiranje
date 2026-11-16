@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px auto;
+    max-width: 850px;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 40px 0;
+}
+
+td {
+    border: 2px solid black;
+    width: 20%;
+    height: 85px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td strong {
+    font-weight: bold;
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 25px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
